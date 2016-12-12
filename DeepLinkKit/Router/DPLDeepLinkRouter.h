@@ -140,4 +140,6 @@ typedef void(^DPLRouteCompletionBlock)(BOOL handled, NSError *error);
  */
 - (id)objectForKeyedSubscript:(NSString *)key;
 
+@property (nonatomic, strong) NSMutableOrderedSet<NSString *> *routes;
+
 @end
