@@ -10,7 +10,6 @@ framework module DeepLinkKit {
     exclude header "DPLDeepLink_Private.h"
     exclude header "DPLSerializable.h"
     exclude header "DPLMatchResult.h"
-    exclude header "DPLRouteMatcher.h"
     exclude header "DPLRegularExpression.h"
     exclude header "NSString+DPLTrim.h"
     exclude header "NSString+DPLQuery.h"
