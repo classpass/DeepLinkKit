@@ -20,7 +20,6 @@ Pod::Spec.new do |s|
     "DeepLinkKit/**/DPLDeepLink_Private.h",
     "DeepLinkKit/**/DPLSerializable.h",
     "DeepLinkKit/**/DPLMatchResult.h",
-    "DeepLinkKit/**/DPLRouteMatcher.h",
     "DeepLinkKit/**/DPLRegularExpression.h",
     "DeepLinkKit/**/NSString+DPLTrim.h",
     "DeepLinkKit/**/NSString+DPLQuery.h",
